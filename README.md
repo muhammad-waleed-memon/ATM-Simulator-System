@@ -16,7 +16,7 @@ ATM-Simulator-System-Complete/
             ├── Signup3.java           <-- Signup Page 3: Account Details
             ├── Transactions.java      <-- Main dashboard
             ├── Deposit.java           <-- Deposit money
-            ├── Withdrawl.java         <-- Withdraw money (with balance check)
+            ├── Withdrawal.java         <-- Withdraw money (with balance check)
             ├── FastCash.java          <-- Quick withdrawal presets
             ├── BalanceEnquiry.java    <-- Check balance
             ├── MiniStatement.java     <-- Last 5 transactions
